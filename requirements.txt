@@ -1,0 +1,7 @@
+Django==5.0.0  
+djangorestframework==3.14.0 
+Pillow==10.0.0  
+psycopg2-binary==2.9.6
+python-decouple==7.0
+djangorestframework-simplejwt==6.0.0  
+django-filter==23.1.0 
