@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Platform
 
 A comprehensive e-commerce platform built with Django and Django REST Framework, featuring JWT-based user authentication, product catalog management, shopping cart functionality, order processing, payment integration, and a fully customized admin panel.
@@ -63,3 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Django REST Framework
 - PostgreSQL
 - Pillow
+=======
+# ecommerce
+A comprehensive e-commerce platform built with Django and Django REST Framework, featuring JWT-based user authentication, product catalog management, shopping cart, order processing, payment integration, a robust API, and a fully customized admin panel. This project showcases my skills in Python, Django, and RESTful API development.
+>>>>>>> 35d0bd7118c4f8555fbb33f2f180100f9978335b
